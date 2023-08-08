@@ -97,7 +97,9 @@ $ ros2 launch dsr_launcher2 single_robot_gazebo.launch.py
 ```
 <img src="https://user-images.githubusercontent.com/47092672/99232226-fe9c5200-2834-11eb-8719-f87cc56d55c7.gif" width="70%">
 
-**If you have the Moviet already installed in your system, do not do the following lines!!!**
+
+
+**If you have the Moviet already installed in your system, skip the following lines!!!**
 
 ### Moveit
 To use the moveit2 package, you need to install the following packages.
